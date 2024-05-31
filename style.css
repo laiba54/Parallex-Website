@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.img1{
+    width: 100%;
+    height: 100vh;
+    background-image: url(assets/img2.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover ;
+    background-attachment: fixed;
+
+    
+}
+.img2{
+   
+    height: 400px;
+    background-image: url(assets/img4.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover ;
+    background-attachment: fixed;
+
+    
+}
+.img3{
+    
+    height: 400px;
+    background-image: url(assets/img3.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover ;
+    background-attachment: fixed;
+
+    
+}
+
+.text{
+   position: absolute;
+   top: 50%; 
+  width: 100%;
+   text-align: center;
+   list-style: none;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+     
+}
+.textbg{
+    background: black;
+    padding: 5px 5px 5px 5px;
+    color: azure;
+}
+
+.section{
+    padding: 50px 80px;
+    text-align: center;
+    
+
+}
+.section-light{
+    background-color: rgb(40, 39, 39);
+    color: aliceblue;
+}
+.section-dark
+{
+    background-color: rgb(255, 231, 182);
+}
+.section1{
+    padding: 50px 80px;
+    text-align: center;
+   
+
+}
+
+
+
+
